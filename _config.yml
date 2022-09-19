@@ -32,10 +32,11 @@ github_username:  blwh
 locale: "en-GB"
 
 # Build settings
-theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
+# theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Minimal mistakes theme settings
 minimal_mistakes_skin: "dark"

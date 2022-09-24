@@ -1,5 +1,6 @@
 ---
 title: Mexican style rice
+date: '2022-07-14'
 ---
 
 A recipe for mexian-style rice that is great with tacos!

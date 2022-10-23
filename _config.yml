@@ -39,7 +39,7 @@ plugins:
   - jekyll-include-cache
 
 # Minimal mistakes theme settings
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "default"
 
 include: ["_pages"]
 

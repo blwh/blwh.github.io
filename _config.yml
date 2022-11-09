@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lucas Hedström
-subtitle: A personal page
-email: lucas.hedstrom@pm.me
+# subtitle: A personal page
+email: lucas@lucashedstrom.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
@@ -43,38 +43,58 @@ minimal_mistakes_skin: "default"
 
 include: ["_pages"]
 
+# author:
+#   bio: "Other places to find me"
+#   links:
+#     - label: "IceLab"
+#       # icon: "fa-solid fa-circle-nodes"
+#       url: "https://icelab.se/about/team/lucas-hedstrom/"
+#     - label: "UmU page"
+#       # icon: "fal fa-deer"
+#       url: "https://www.umu.se/en/staff/lucas-hedstrom/"
+
+footer:
+  links:
+    - label: "IceLab"
+      icon: "fas fa-project-diagram"
+      url: "https://icelab.se/about/team/lucas-hedstrom/"
+    - label: "University page"
+      icon: "fas fa-building"
+      url: "https://www.umu.se/en/staff/lucas-hedstrom/"
+
 collections:
   recipes:
     output: true
     permalink: /:collection/:path/
 
 defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: false
-      share: true
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
-      comments: true
-      share: true
       related: true
+      sidebar:
+        nav: "sidenav"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "sidenav"
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      share: true
+      sidebar:
+        nav: "sidenav"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

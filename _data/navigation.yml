@@ -1,3 +1,10 @@
-main:
-  - title: "Recipes"
-    url: /recipes/
+sidenav:
+  - title: "Professional"
+    children:
+      - title: "CV"
+        url: /assets/pdf/cv.pdf
+        target: "_blank"
+  - title: "Personal"
+    children:
+      - title: "Recipes"
+        url: /recipes/

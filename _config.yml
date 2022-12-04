@@ -66,6 +66,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -92,6 +95,16 @@ defaults:
       type: recipes
     values:
       layout: single
+      share: true
+      sidebar:
+        nav: "sidenav"
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
       share: true
       sidebar:
         nav: "sidenav"

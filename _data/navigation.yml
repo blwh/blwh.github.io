@@ -4,6 +4,8 @@ sidenav:
       - title: "CV"
         url: /assets/pdf/cv.pdf
         target: "_blank"
+      - title: "Projects"
+        url: /projects/
   - title: "Personal"
     children:
       - title: "Recipes"

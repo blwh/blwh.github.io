@@ -13,5 +13,5 @@ with a version for people in the north of Sweden, which I call "Cykelolycka"
 
 ## Instructions
 
-* Pour 50/50 of the lager and trocadero in a glass.
+* Pour 50/50 of the lager and Trocadero in a glass.
 * Enjoy!

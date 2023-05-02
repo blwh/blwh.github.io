@@ -19,5 +19,3 @@ $f(x) = x$
 $$
 x = \lim_{x\rightarrow \infty} f(x)
 $$
-
-[probably broken link](assets/pdf/How to write figure captions.pdf)

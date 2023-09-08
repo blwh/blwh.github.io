@@ -9,8 +9,8 @@ Carne asada is mexican grilled meat. This marinade has typical Mexican flavours,
 
 * 50 ml soy sauce
 * 50 ml fish sauce
-* 50 ml lime juice
-* 50 ml orange juice
+* juice from 3 limes
+* juice from 1 orange
 * 50 ml corn oil
 * 4 cloves of garlic, minced
 * 1 tbsp chili flakes

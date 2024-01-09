@@ -61,6 +61,9 @@ footer:
     - label: "University page"
       icon: "fas fa-building"
       url: "https://www.umu.se/en/staff/lucas-hedstrom/"
+    - label: "University page"
+      icon: "fas fa-building"
+      url: "https://www.umu.se/en/staff/lucas-hedstrom/"
 
 collections:
   recipes:

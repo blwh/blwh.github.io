@@ -1,0 +1,8 @@
+---
+title: Carnitas
+date: '2024-01-21'
+---
+
+Slow cooked pork for tacos. Very nice! However, leftovers are very dry and boring, so make sure you have a strong appetite...
+
+I wont bother writing this down since it has many steps, but [here](https://foodwishes.blogspot.com/2015/04/orange-milk-braised-pork-carnitas.html) is the recipe. Note; in Sweden you can buy "skinkstek" which works really good in this recipe!

@@ -1,5 +1,8 @@
 ---
 title: Simple tuna salad
+date: '2023-01-01'
+layout: post
+category: recipe
 ---
 
 I don't really like tuna salad, but this turned out OK.

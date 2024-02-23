@@ -1,6 +1,8 @@
 ---
 title: Flygande jakob
 date: '2024-01-21'
+layout: post
+category: recipe
 ---
 
 Flygande jakob, or flying jakob, is an award winning recipe from the 70s made by a pilot, hence the name!

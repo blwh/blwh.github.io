@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Carne asada
 date: '2023-09-02'
+category: recipe
 ---
 
 Carne asada is mexican grilled meat. This marinade has typical Mexican flavours, and a solid citrus taste.

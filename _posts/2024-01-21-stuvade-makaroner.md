@@ -1,6 +1,8 @@
 ---
 title: Stuvade makaroner
 date: '2024-01-21'
+layout: post
+category: recipe
 ---
 
 Stuvade makaroner, milk-stewed macaronies, is the Swedish equivalent to mac and cheese. Serve with fried falukorv!

@@ -1,6 +1,8 @@
 ---
 title: Churros bars
 date: '2023-09-02'
+layout: post
+category: recipe
 ---
 
 Fucking great bars that are the cinnamon equivalent to brownies.

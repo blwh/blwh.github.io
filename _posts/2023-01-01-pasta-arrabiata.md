@@ -1,5 +1,8 @@
 ---
 title: Pasta arrabiata with lentils
+date: '2023-01-01'
+layout: post
+category: recipe
 ---
 
 A really nice vegetarian pasta from ICA.

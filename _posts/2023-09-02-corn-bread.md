@@ -1,6 +1,8 @@
 ---
 title: Cornbread
 date: '2023-09-02'
+layout: post
+category: recipe
 ---
 
 A great cornbread that I had at IceLab.

@@ -1,5 +1,8 @@
 ---
 title: Rice and beans
+date: '2023-01-01'
+layout: post
+category: recipe
 ---
 
 Living on a budget.

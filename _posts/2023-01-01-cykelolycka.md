@@ -1,5 +1,8 @@
 ---
 title: Cykelolycka
+date: '2023-01-01'
+layout: post
+category: recipe
 ---
 
 Inspired by the [German Radler](https://de.wikipedia.org/wiki/Radler) I came up

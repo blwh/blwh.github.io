@@ -1,5 +1,8 @@
 ---
 title: Franska Wienerbröd
+date: '2023-01-01'
+layout: post
+category: recipe
 ---
 
 In Swedish since I cannot bother to translate. Taken from [hemtrevligt.se](hemtrevligt.se).

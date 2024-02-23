@@ -1,5 +1,8 @@
 ---
 title: Pimp yo' noodle
+date: '2023-01-01'
+layout: post
+category: recipe
 ---
 
 Special thanks to Eli Silverman.

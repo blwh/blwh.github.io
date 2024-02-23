@@ -1,5 +1,8 @@
 ---
 title: Plankstek
+date: '2023-01-01'
+layout: post
+category: recipe
 ---
 
 The fancy Swedish dish!

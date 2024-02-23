@@ -1,133 +1,26 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+title: lucas # name of the site
+author: Lucas Hedström # name of site's author
+email: lucas@lucashedstrom.com # email of site's author
+url: https://lucashedstrom.com # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  hej!
 
-title: Lucas Hedström
-# subtitle: A personal page
-email: lucas@lucashedstrom.com
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  blwh
+permalink: /:slug.html
 
-locale: "en-GB"
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 
-# Build settings
-# theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: "back" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+
+sass:
+  style: :compressed
+
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
-
-# Minimal mistakes theme settings
-minimal_mistakes_skin: "default"
-
-include: ["_pages"]
-
-# author:
-#   bio: "Other places to find me"
-#   links:
-#     - label: "IceLab"
-#       # icon: "fa-solid fa-circle-nodes"
-#       url: "https://icelab.se/about/team/lucas-hedstrom/"
-#     - label: "UmU page"
-#       # icon: "fal fa-deer"
-#       url: "https://www.umu.se/en/staff/lucas-hedstrom/"
-
-footer:
-  links:
-    - label: "IceLab"
-      icon: "fas fa-project-diagram"
-      url: "https://icelab.se/about/team/lucas-hedstrom/"
-    - label: "University page"
-      icon: "fas fa-building"
-      url: "https://www.umu.se/en/staff/lucas-hedstrom/"
-    - label: "University page"
-      icon: "fas fa-building"
-      url: "https://www.umu.se/en/staff/lucas-hedstrom/"
-
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      related: true
-      sidebar:
-        nav: "sidenav"
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      sidebar:
-        nav: "sidenav"
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      share: true
-      sidebar:
-        nav: "sidenav"
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      sidebar:
-        nav: "sidenav"
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-seo-tag

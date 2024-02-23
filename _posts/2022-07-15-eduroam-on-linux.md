@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Configuring Eduroam on Linux
 date: '2022-07-15'
+category: guide
 ---
 
 This is a short guide on how to configure eduroam on Linux.

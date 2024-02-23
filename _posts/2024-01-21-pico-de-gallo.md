@@ -1,6 +1,8 @@
 ---
 title: Pico de gallo
 date: '2024-01-21'
+layout: post
+category: recipe
 ---
 
 Pico de gallo, or "The crow's beak", is a roughly chopped salsa. Here I give no measurements - go by feel!

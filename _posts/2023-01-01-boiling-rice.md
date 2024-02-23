@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Boiling rice
 date: '2024-01-21'
+category: recipe
 ---
 
 I think boiling rice is a hassle, but this method from Gordon Ramsey is easy and really consistent.

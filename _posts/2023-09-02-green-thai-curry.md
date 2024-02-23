@@ -1,6 +1,8 @@
 ---
 title: Green thai curry
 date: '2023-09-02'
+layout: post
+category: recipe
 ---
 
 A really good curry recipe that is genuinely hot.

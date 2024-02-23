@@ -10,7 +10,7 @@ permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 
-theme: riggraz/no-style-please
+remote-theme: no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"

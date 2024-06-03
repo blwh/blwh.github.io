@@ -4,11 +4,15 @@ title: CV
 date: '1970-01-01'
 ---
 
+<!-- <img align="right" style="max-width: 25%" src="assets/images/jag.jpg"> -->
+
 The CV[^1] for Lucas Hedström[^2].
 
 email: [lucas.hedstrom@protonmail.com](mailto:lucas.hedstrom@protonmail.com)
 
 [Google scholar page](https://scholar.google.com/citations?user=zEhWOwsAAAAJ&hl=sv&oi=ao)
+
+
 
 
 ### Current position
@@ -47,7 +51,9 @@ Biophysics, statistical physics, computational physics, network science
 
 #### Journal articles
 
-**2024** Hedström, L., & Olsson, P. Considerations on the relaxation time in shear-driven jamming. arXiv preprint [arXiv:2402.10682](https://arxiv.org/abs/2402.10682). Submitted to Physical Review E.
+**2024** Hedström, L., Carcedo Martínez, A., & Lizana, L. Identifying stable communities in Hi-C data using a multifractal null model. arXiv preprint [arXiv:2405.05425](https://arxiv.org/abs/2405.05425). Submitted to PLOS Complex Systems.
+
+**2024** Hedström, L., & Olsson, P. Considerations on the relaxation time in shear-driven jamming. arXiv preprint [arXiv:2402.10682](https://arxiv.org/abs/2402.10682). Accepted to Physical Review E.
 
 **2024** Hedström, L., Metzler, R., & Lizana, L. A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation. arXiv preprint [arXiv:2402.09209](https://arxiv.org/abs/2402.09209). Submitted to PRX Life.
 
@@ -112,6 +118,6 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 ---
 
-[^1]: CV last updated 29 April 2024
+[^1]: CV last updated 03 June 2024
 
 [^2]: "ö" is pronounced kind of like the "e" in the American pronunciation of "fern". Hedstrom is also fine.

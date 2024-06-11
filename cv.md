@@ -53,7 +53,7 @@ Biophysics, statistical physics, computational physics, network science
 
 **2024** Hedström, L., Carcedo Martínez, A., & Lizana, L. Identifying stable communities in Hi-C data using a multifractal null model. arXiv preprint [arXiv:2405.05425](https://arxiv.org/abs/2405.05425). Submitted to PLOS Complex Systems.
 
-**2024** Hedström, L., & Olsson, P. Considerations on the relaxation time in shear-driven jamming. arXiv preprint [arXiv:2402.10682](https://arxiv.org/abs/2402.10682). Accepted to Physical Review E.
+**2024** Hedström, L., & Olsson, P. Considerations on the relaxation time in shear-driven jamming. arXiv preprint [arXiv:2402.10682](https://arxiv.org/abs/2402.10682). Phys. Rev. E, 109(6), 064906
 
 **2024** Hedström, L., Metzler, R., & Lizana, L. A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation. arXiv preprint [arXiv:2402.09209](https://arxiv.org/abs/2402.09209). Submitted to PRX Life.
 
@@ -92,6 +92,8 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 ### Service to the profession
 
+**2024** Planning for the IceLab stress kickoff workshop
+
 **2022** Planning Committee for the 11th EpiCoN meeting
 
 **2020-2022** Student representative at the research committee at the TekNat faculty.
@@ -110,14 +112,14 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 ### Other
 
-**From 2024** Leader of the bass staff in the choir "Umeå Nationskören"
+**2024** Leader of the bass staff in the choir "Umeå Nationskören"
 
-**From 2023** Bass singer in the choir "Umeå Nationskören"
+**2023-2024** Bass singer in the choir "Umeå Nationskören"
 
 **2020-2022** Bass singer in the choir "Umeå Vokalensemble"
 
 ---
 
-[^1]: CV last updated 03 June 2024
+[^1]: CV last updated 11 June 2024
 
 [^2]: "ö" is pronounced kind of like the "e" in the American pronunciation of "fern". Hedstrom is also fine.

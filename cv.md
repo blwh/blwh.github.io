@@ -51,17 +51,17 @@ Biophysics, statistical physics, computational physics, network science
 
 #### Journal articles
 
-**2024** Hedström, L., Carcedo Martínez, A., & Lizana, L. Identifying stable communities in Hi-C data using a multifractal null model. arXiv preprint [arXiv:2405.05425](https://arxiv.org/abs/2405.05425). Submitted to PLOS Complex Systems.
+**2024** Hedström, L., Carcedo Martínez, A., & Lizana, L. Identifying stable communities in Hi-C data using a multifractal null model. arXiv preprint [arXiv:2405.05425](https://arxiv.org/abs/2405.05425). Under review at PLOS Complex Systems.
 
-**2024** Hedström, L., & Olsson, P. Considerations on the relaxation time in shear-driven jamming. arXiv preprint [arXiv:2402.10682](https://arxiv.org/abs/2402.10682). Phys. Rev. E, 109(6), 064906
+**2024** Hedström, L., & Olsson, P. Considerations on the relaxation time in shear-driven jamming. Phys. Rev. E, 109(6), 064906
 
-**2024** Hedström, L., Metzler, R., & Lizana, L. A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation. arXiv preprint [arXiv:2402.09209](https://arxiv.org/abs/2402.09209). Submitted to PRX Life.
+**2024** Hedström, L., Metzler, R., & Lizana, L. A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation. arXiv preprint [arXiv:2402.09209](https://arxiv.org/abs/2402.09209). Accepted to PRX Life.
 
 **2022** Hedström, L., & Lizana, L. Modelling chromosome-wide target search. New Journal of Physics, 25(3), 033024.
 
 #### Book chapters
 
-**2023** Hedström, L., & Lizana, L. Exploring the benefits of DNA-target search with antenna. [arXiv:2311.11727](https://arxiv.org/abs/2311.11727).
+**2023** Hedström, L., & Lizana, L. Exploring the benefits of DNA-target search with antenna. [arXiv:2311.11727v2](https://arxiv.org/abs/2311.11727v2).
 
 
 ### Talks & posters
@@ -83,7 +83,7 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 ### Courses
 
-**From 2020** co-responsible for the courses "Modeling and Simulations" and "Dynamical Models of Living Systems"
+**From 2020** co-responsible for the courses "Modelling and Simulation" and "Modelling the Dynamics of Living Systems"
 
 **From 2020** head of planning, supervising and examining practical labs on "Mekanik och energifysik"
 
@@ -92,7 +92,7 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 ### Service to the profession
 
-**2024** Planning for the IceLab stress kickoff workshop
+**2024** Planning for the IceLab stress kickoff workshop - a kickoff for the new excellence center
 
 **2022** Planning Committee for the 11th EpiCoN meeting
 

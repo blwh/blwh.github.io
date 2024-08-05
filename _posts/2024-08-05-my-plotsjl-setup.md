@@ -11,6 +11,8 @@ Remember me saying I wouldn't re-learn another plotting package? Gotcha!
 
 I didn't bother to learn `Plots.jl` first because I found the documentation a bit lacking. However, once I figured it out I really liked its syntax and ease of configuration. It is also very easy to switch between backends. You can for example use `PGFPlotsX` to generate `tikz`-code that you can put directly into LaTeX!
 
+![plots example](assets/images/plots.jl/plot.png){:.ioda}
+
 Here is my `PyPlot` configuration mapped to `Plots.jl`. To use this, add the following code to `$HOME/.julia/config/startup.jl`.
 
 ```julia

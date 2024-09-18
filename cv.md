@@ -4,7 +4,7 @@ title: CV
 date: '1970-01-01'
 ---
 
-<!-- <img align="right" style="max-width: 25%" src="assets/images/jag.jpg"> -->
+<img align="center" style="max-width: 100%" src="assets/images/jag_2.png">
 
 The CV[^1] for Lucas Hedström[^2].
 
@@ -47,7 +47,9 @@ Biophysics, statistical physics, computational physics, network science
 
 #### Thesis
 
-**2019** Hedström, L. (2019). Classifying the rotation of bacteria using neural networks.
+**Upcoming** *Doctorate thesis;* Hedström, L. (2024). Finding a target on DNA: Interplay between the genomic sequence and 3D structure
+
+**2019** *Master's thesis;* Hedström, L. (2019). Classifying the rotation of bacteria using neural networks.
 
 #### Journal articles
 
@@ -55,7 +57,7 @@ Biophysics, statistical physics, computational physics, network science
 
 **2024** Hedström, L., & Olsson, P. Considerations on the relaxation time in shear-driven jamming. Phys. Rev. E, 109(6), 064906
 
-**2024** Hedström, L., Metzler, R., & Lizana, L. A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation. arXiv preprint [arXiv:2402.09209](https://arxiv.org/abs/2402.09209). Accepted to PRX Life.
+**2024** Hedström, L., Metzler, R., & Lizana, L. Enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation. PRX Life, 2(3), 033008
 
 **2022** Hedström, L., & Lizana, L. Modelling chromosome-wide target search. New Journal of Physics, 25(3), 033024.
 
@@ -111,6 +113,8 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 
 ### Other
+
+**2024-current** Bass singer in the choir "Umeå Barockkör"
 
 **2024** Leader of the bass staff in the choir "Umeå Nationskören"
 

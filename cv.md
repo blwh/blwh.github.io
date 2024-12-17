@@ -6,7 +6,7 @@ date: '1970-01-01'
 
 <img align="center" style="max-width: 100%" src="assets/images/jag_2.png">
 
-The CV[^1] for Lucas Hedström[^2].
+The CV[^1] for Lucas Hedström[^2], PhD.
 
 email: [lucas.hedstrom@protonmail.com](mailto:lucas.hedstrom@protonmail.com)
 
@@ -17,7 +17,7 @@ email: [lucas.hedstrom@protonmail.com](mailto:lucas.hedstrom@protonmail.com)
 
 ### Current position
 
-PhD student, Umeå University
+Researcher, Umeå University
 
 
 ### Areas of specialization
@@ -27,7 +27,9 @@ Biophysics, statistical physics, computational physics, network science
 
 ### Appointments held
 
-**from 2019** University teaching at 20% as a part of my PhD education, Umeå University, Umeå
+**from 2024** Research, teaching and outreach in IceLab, Umeå University. Umeå
+
+**2019-2024** University teaching at 20% as a part of my PhD education, Umeå University, Umeå
 
 **sum. 2018** CAE Engineer, BAE Systems Hägglunds, Örnsköldsvik
 
@@ -38,7 +40,7 @@ Biophysics, statistical physics, computational physics, network science
 
 ### Education
 
-**2019-2024** *(Ongoing)* PhD in theoretical biophysics, Umeå University
+**2019-2024** PhD in theoretical biophysics, Umeå University
 
 **2014-2019** MSc in Engineering Physics, Umeå University
 
@@ -47,26 +49,30 @@ Biophysics, statistical physics, computational physics, network science
 
 #### Thesis
 
-**Upcoming** *Doctorate thesis;* Hedström, L. (2024). Finding a target on DNA: Interplay between the genomic sequence and 3D structure
+**2024** *Doctorate thesis;* Hedström, L. (2024). Finding a target on DNA: Interplay between the genomic sequence and 3D structure
 
 **2019** *Master's thesis;* Hedström, L. (2019). Classifying the rotation of bacteria using neural networks.
 
 #### Journal articles
 
-**2024** Hedström, L., Carcedo Martínez, A., & Lizana, L. Identifying stable communities in Hi-C data using a multifractal null model. arXiv preprint [arXiv:2405.05425](https://arxiv.org/abs/2405.05425). Under review at PLOS Complex Systems.
+**2024** Hedström, L., Yang, S.G., & Lizana, L. Target search on networks-within-networks with applications to protein-DNA interactions. arXiv preprint [arXiv:2411.02660](https://arxiv.org/abs/2411.02660)
+
+**2024** Hedström, L., Carcedo Martínez, A., & Lizana, L. Identifying stable communities in Hi-C data using a multifractal null model. arXiv preprint [arXiv:2405.05425](https://arxiv.org/abs/2405.05425). Under review at PLOS Complex Systems
 
 **2024** Hedström, L., & Olsson, P. Considerations on the relaxation time in shear-driven jamming. Phys. Rev. E, 109(6), 064906
 
 **2024** Hedström, L., Metzler, R., & Lizana, L. Enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation. PRX Life, 2(3), 033008
 
-**2022** Hedström, L., & Lizana, L. Modelling chromosome-wide target search. New Journal of Physics, 25(3), 033024.
+**2022** Hedström, L., & Lizana, L. Modelling chromosome-wide target search. New Journal of Physics, 25(3), 033024
 
 #### Book chapters
 
-**2023** Hedström, L., & Lizana, L. Exploring the benefits of DNA-target search with antenna. [arXiv:2311.11727v2](https://arxiv.org/abs/2311.11727v2).
+**2023** Hedström, L., & Lizana, L. Exploring the benefits of DNA-target search with antenna. [arXiv:2311.11727v2](https://arxiv.org/abs/2311.11727v2)
 
 
-### Talks & posters
+### Talks, posters and workshops
+
+**2025** Accepted and planned to attend the Winter Workshop on Complex Systems (WWCS) in Italy
 
 **2024** Talk at MEEW 2024 in South Korea: "A cool connection between gene regulation and resetting search"
 
@@ -87,9 +93,11 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 **From 2020** co-responsible for the courses "Modelling and Simulation" and "Modelling the Dynamics of Living Systems"
 
-**From 2020** head of planning, supervising and examining practical labs on "Mekanik och energifysik"
-
 **From 2016** head of planning, supervising and examining computer labs on "Foundations in Electromagnetism", "Electrodynamics" and "Advanced Fluid Mechanics"
+
+**2020-2024** head of planning, supervising and examining practical labs on "Mekanik och energifysik"
+
+**2016-2022** head of planning, supervising and examining computer labs on "Electrodynamics"
 
 
 ### Service to the profession
@@ -124,6 +132,6 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 ---
 
-[^1]: CV last updated 11 June 2024
+[^1]: CV last updated 17 December 2024
 
 [^2]: "ö" is pronounced kind of like the "e" in the American pronunciation of "fern". Hedstrom is also fine.

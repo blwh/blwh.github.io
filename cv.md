@@ -27,7 +27,7 @@ Biophysics, statistical physics, computational physics, network science
 
 ### Appointments held
 
-**from 2024** Research, teaching and outreach in IceLab, Umeå University. Umeå
+**from 2024** Research, teaching and outreach at IceLab, Umeå University, Umeå
 
 **2019-2024** University teaching at 20% as a part of my PhD education, Umeå University, Umeå
 
@@ -40,18 +40,18 @@ Biophysics, statistical physics, computational physics, network science
 
 ### Education
 
-**2019-2024** PhD in theoretical biophysics, Umeå University
+**2019-2024** PhD in theoretical physics, Umeå University
 
-**2014-2019** MSc in Engineering Physics, Umeå University
+**2014-2019** MSc in engineering physics, Umeå University
 
 
 ### Publications
 
 #### Thesis
 
-**2024** *Doctorate thesis;* Hedström, L. (2024). Finding a target on DNA: Interplay between the genomic sequence and 3D structure
+**2024** *Doctorate thesis* - Hedström, L. (2024). Finding a target on DNA: Interplay between the genomic sequence and 3D structure
 
-**2019** *Master's thesis;* Hedström, L. (2019). Classifying the rotation of bacteria using neural networks.
+**2019** *Master's thesis* - Hedström, L. (2019). Classifying the rotation of bacteria using neural networks.
 
 #### Journal articles
 
@@ -106,11 +106,11 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 **2022** Planning Committee for the 11th EpiCoN meeting
 
-**2020-2022** Student representative at the research committee at the TekNat faculty.
+**2020-2022** Student representative at the research committee at the TekNat faculty
 
-**2019-2023** Deployment, improvements and management of STRIDE at the physics department, a website where doctoral students can record their achievements during their PhD.
+**2019-2023** Deployment, improvements and management of STRIDE at the physics department, a website where doctoral students can record their achievements during their PhD
 
-**2019** Development of the most recent version of Röda Tråden, a website with tools allowing master students to plan their course plan for their wanted degree.
+**2019** Development of the most recent version of Röda Tråden, a website with tools allowing master students to plan their course plan for their wanted degree
 
 
 ### Grants

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Plots.jl setup
+title: my Plots.jl setup
 date: '2024-08-5'
 category: guide
 ---

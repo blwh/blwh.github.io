@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configuring Eduroam on Linux
+title: configuring Eduroam on Linux
 date: '2022-07-15'
 category: guide
 ---

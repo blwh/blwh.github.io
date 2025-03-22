@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Röda Tråden"
+title: "röda tråden"
 category: guide
 ---
 

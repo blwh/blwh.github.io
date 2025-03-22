@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My pyplot setup
+title: my pyplot setup
 date: '2024-03-02'
 category: guide
 ---

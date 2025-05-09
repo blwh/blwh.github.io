@@ -8,7 +8,7 @@ date: '1970-01-01'
 
 The CV[^1] for Lucas Hedström[^2], PhD.
 
-email: [lucas.hedstrom@protonmail.com](mailto:lucas.hedstrom@protonmail.com)
+email: [lucas@hedstrom.phd](mailto:lucas@hedstrom.phd)
 
 [Google scholar page](https://scholar.google.com/citations?user=zEhWOwsAAAAJ&hl=sv&oi=ao)
 
@@ -32,7 +32,7 @@ Julia, MATLAB, C, Python, LaTeX, Inkscape, COMSOL, IronCAD, Linux (desktop and s
 
 ### Appointments held
 
-**from 2024** Staff scientist at IceLab, Umeå University, Umeå
+**2024-2025** Staff scientist at IceLab, Umeå University, Umeå
 
 *Continuation of my projects as a PhD, including teaching and building the web presence for IceLab.*
 
@@ -147,6 +147,8 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 ### Other
 
+**2025-current** Drummer in the band GSG
+
 **2024-current** Bass singer in the choir "Umeå Barockkör"
 
 **2024** Leader of the bass staff in the choir "Umeå Nationskören"
@@ -157,6 +159,6 @@ I have been engaged as an academic supervisor in many master's theses. This posi
 
 ---
 
-[^1]: CV last updated 15 April 2025.
+[^1]: CV last updated 9 May 2025.
 
 [^2]: "ö" is pronounced kind of like the "e" in the American pronunciation of "fern". Hedstrom is also fine.
